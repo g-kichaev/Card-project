@@ -9,10 +9,10 @@ GitHub Card — это учебный pet-проект, представляющ
 Следуйте этим шагам, чтобы настроить и запустить проект локально:
 
 1. **Клонирование репозитория**  
-   Клонируйте проект на свой компьютер:
+   Склонируйте проект с GitHub:
 
    ```bash
-   git clone https://github.com/your-username/github-card.git
+   git clone https://github.com/g-kichaev/github-card.git
    ```
 
 2. **Переход в директорию проекта**  
@@ -44,3 +44,7 @@ GitHub Card — это учебный pet-проект, представляющ
 ## Используемые технологии
 
 - React, TypeScript, GitHub API
+
+## Мой проект на Vercel
+
+https://card-project-dusky.vercel.app/
